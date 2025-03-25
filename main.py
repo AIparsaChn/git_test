@@ -3,3 +3,6 @@ def login():
 
 def factor():
     pass
+
+def math():
+    pass
