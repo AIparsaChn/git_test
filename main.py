@@ -3,3 +3,6 @@ def login():
 
 def like():
     return True
+
+def identity():
+    print("User")
