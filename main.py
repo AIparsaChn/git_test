@@ -1,3 +1,7 @@
+class student:
+    pass
+
+
 def login():
     pass
 
@@ -6,3 +10,7 @@ def like():
 
 def identity():
     print("User")
+
+def parsa():
+    return True
+def ali():
