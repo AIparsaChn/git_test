@@ -1,3 +1,7 @@
+class student:
+    pass
+
+
 def login():
     pass
 def parsa():
