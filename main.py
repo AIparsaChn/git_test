@@ -14,3 +14,8 @@ def identity():
 def parsa():
     return True
 def ali():
+    pass
+
+def user_info(user):
+    return ueer_info
+
